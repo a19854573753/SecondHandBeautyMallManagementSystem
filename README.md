@@ -4,7 +4,7 @@
 
 # 301.SecondHandBeautyMallManagementSystem
 
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">301.二手美妆商场管理系统</h1></p>
